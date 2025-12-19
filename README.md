@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @pothamsettyvenky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pothamsettyvenky/pothamsettyvenky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Developer | React • Node.js • AWS  
+Building clean, scalable web apps with strong UX.  
+Passionate about performance, design systems, and real-world problem solving.
